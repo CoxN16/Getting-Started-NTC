@@ -1,3 +1,3 @@
 # Getting-Started-NTC
-Software Dev project
+Software Dev project --
 I created a repository!
